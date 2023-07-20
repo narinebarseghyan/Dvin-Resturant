@@ -1,0 +1,9 @@
+@font-face {
+    
+    src: url('MarckScript-Regular.woff2') format('woff2'),
+        url('MarckScript-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

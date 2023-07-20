@@ -1,0 +1,482 @@
+@media screen and (max-width: 1286px){
+    .element4-2 {
+        padding-top: 200px;
+    }
+    .element4-2 h2, .element4-2 h3 {
+        font-size: 85px;
+    }
+    .logo-text {
+        font-size: 47px;
+    }
+    .element4-1 {
+        max-height: 930px;
+    }
+    .cont-g-7 {
+        width: 75%;
+    }
+    .group-5 {
+        padding: 89px 0 79px;
+    }
+}
+@media screen and (max-width: 1041px){
+    .container-for-g-3 {
+        width: 80%;
+    }
+    .cont-twice p {
+        font-size: 18px;
+    }
+    .element4-2 {
+        padding-top: 125px;
+    }
+    .element4-2 h2, .element4-2 h3 {
+        font-size: 62px;
+    }
+    .logo-text {
+        font-size: 32px;
+    }
+    .element4-1 {
+        max-height: 818px;
+    }
+    .group-2 p {
+        font-size: 16px;
+    }
+    #inform {
+        font-size: 14px;
+    }
+    .toolbar a {
+        font-size: 18px;
+    }
+    .cont-for-a {
+        width: 534px;
+    }
+    .element1-1 {
+        padding: 126px 0 149px 41px;
+        width: 582px;
+        height: 530px;
+        margin: 21px 70px 0 0;
+    } 
+    .main {
+        font-size: 45px;
+    }
+    .main2 {
+        font-size: 36px;
+    }
+    .breakfast {
+        width: 437px;
+    }
+    .group-1 button {
+        margin: 22px 233px 0 0;
+    }
+    .element6-2 {
+        width: 524px;
+    }
+    .group-5 p {
+        width: 546px;
+        font-size: 16px;
+    }
+    .cont-twice p {
+        font-size: 13px;
+    }
+}
+@media screen and (max-width: 1247px){
+    .element1-1 {
+        width: 408px;
+        padding: 84px 0 149px 41px;
+    }
+    .main {
+        font-size: 33px;
+    }
+    .main2 {
+        font-size: 28px;
+    }
+    .breakfast {
+        width: 320px;
+        padding-left: 69px;
+        font-size: 12px;
+    }
+
+}
+@media screen and (max-width: 869px){
+    .element4-2 h2, .element4-2 h3 {
+        font-size: 50px;
+    }
+    .logo-text {
+        font-size: 26px;
+    }
+    .element4-1 {
+        max-height: 769px;
+    }
+    .element6-2 h2 {
+        font-size: 50px;
+        margin-bottom: 65px;
+    }    
+    .element6-2 .main-text-6 {
+        font-size: 41px;
+    }
+    .element6-2 h3 {
+        font-size: 42px;
+        margin-bottom: 49px;
+    }
+    .element6-2 .descrip {
+        font-size: 34px;
+    }
+    .group-6 {
+        padding: 160px 0 297px 0;
+    }
+    footer a {
+        font-size: 20px;
+    }
+    .cont-for-a {
+        width: 499px;
+    }
+    .toolbar a {
+        font-size: 14px;
+    }
+    .cont-for-a {
+        width: 420px;
+    }
+}
+@media screen and (max-width: 809px){
+    .group-1 {
+        background-size: cover;
+    }
+    .element1-1 {
+        height: 384px;
+        padding: 84px 0 0px 41px;
+    }
+    .element4-1 {
+        max-height: 675px;
+    }
+    .element4-2 h2, .element4-2 h3 {
+        font-size: 36px;
+    }
+    .logo-text {
+        font-size: 22px;
+    }
+    #inform {
+        font-size: 12px;
+        margin-top: 22px;
+    }
+    .cont-twice p {
+        font-size: 15px;
+    }
+    .group-2 {
+        background-color: #010311;
+        background-image: none;
+        padding: 93px 0 126px 56px;
+    
+    }
+    .group-2 h2 {
+        font-size: 25px;
+    }
+}
+@media screen and (max-width: 700px){
+    .element1-1 {
+        width: 300px;
+        padding: 57px 0 0px 41px;
+        height: 310px;
+    }
+    .main {
+        font-size: 23px;
+    }
+    .main2 {
+        font-size: 20px;
+    }
+    .breakfast {
+        width: 219px;
+        padding-left: 30px;
+        font-size: 10px;
+        margin-top: 1px;
+        height: 94px;
+
+    }
+    .group-1 button {
+        margin: 22px 115px 0 0;
+        width: 154px;
+        height: 46px;
+        border-radius: 26px;
+    }
+    .group-1 button a {
+        font-size: 18px;
+    }
+    .group-2 p {
+        font-size: 12px;
+    }
+    .container-for-g-3 {
+        width: 87%;
+    }
+    .cont-for-a {
+        display: none;
+    }
+    .bar-icon {
+        display: block;
+    }
+    .bar-icon:hover .cont-for-a-2 {
+        display: block;
+        z-index: 5;
+
+    }
+    .bar-icon:hover .cont-for-a-2 a {
+        display: block;
+    }
+    .bar-icon:hover{
+        display: flex;
+
+    }
+    .element2-1 span {
+        font-size: 21px;
+    }
+    .cont-twice p {
+        font-size: 13px;
+    }
+    .group-5 p {
+        width: 546px;
+        font-size: 13px;
+    }
+    .group-5 h2 {
+        font-size: 32px;
+    }        
+}
+@media screen and (max-width: 585px){
+    .group-5 p {
+        width: 435px;
+    }
+    .group-1 {
+        background-image: url(../img2/background-od-g-1-second.png);
+        background-size: cover;
+    }
+    .element6-2 h2 {
+        font-size: 40px;
+        margin-bottom: 50px;
+    }
+    .element6-2 .main-text-6 {
+        font-size: 31px;
+    }
+    .element6-2 h3 {
+        font-size: 32px;
+        margin-bottom: 42px;
+    }
+    footer a {
+        font-size: 13px;
+    }
+    .element6-2 {
+        padding-left: 38px;
+    }            
+    .container-for-g-4 {
+        display: block;
+    }
+    .element4-1 {
+        width: 361px;
+        margin: auto;
+    }
+    .logo-text {
+        margin-left: 121px;
+    }
+    .element4-2 {
+        padding-top: 44px;
+    }
+    .cont-twice p {
+        font-size: 11px;
+    }
+    .element6-2 {
+        width: 361px;
+    }
+    @keyframes loading {
+        0% {
+            width: 8px;
+        }
+        35% {
+            width: 88px;
+            animation-timing-function: ease-out;
+            background-color:#8ACA87;
+        }
+        50% {
+            width: 156px;
+            /* animation-timing-function: ease-in; */
+            background-color:#e9af05;
+        }
+        80% {
+            width: 176px;
+            animation-timing-function: ease-out;
+            background-color:#936813;
+        }
+        100% {
+            width: 255px;
+            animation-timing-function: ease-in;
+            background-color:#e36308
+        }
+    }
+}
+@media screen and (max-width: 500px){
+    .toolbar img {
+        height: 64px;
+    }
+    .group-5 p {
+        width: 326px;
+        font-size: 11px;
+    }
+    .cont-twice img {
+        width: 145px;
+        height: 145px;
+        margin-top: 18px;
+    }
+    .cont-twice img {
+        display: none;
+    }
+    .cont-for-img-2 {
+        display: block;
+        text-align: center;
+    }
+    .cont-for-img-2 img {
+        animation-name: rotating2;
+        animation-duration: 15s;
+        animation-iteration-count: 4126412988;
+    }
+        
+    @keyframes rotating2 {
+        0% {
+            transform: rotate(0deg);
+        }
+        10% {
+            transform: rotate(40deg);
+            animation-timing-function: ease-in;
+        }
+        20% {
+            transform: rotate(80deg);
+        }
+        30% {
+            transform: rotate(120deg);
+            animation-timing-function: ease-in;
+        }
+        40% {
+            transform: rotate(160deg);
+        }
+        50% {
+            transform: rotate(200deg);
+            animation-timing-function: ease-in;
+        }
+        60% {
+            transform: rotate(240deg);
+        }
+        70% {
+            transform: rotate(280deg);
+            animation-timing-function: ease-in;
+        }
+        80% {
+            transform: rotate(320deg);
+        }
+        100% {
+            transform: rotate(360deg);
+            animation-timing-function: ease-in;
+        }
+    }
+}
+@media screen and (max-width: 445px){
+    .element1-1 {
+        margin: 21px 31px 0 0;
+    }
+    .group-2 h2 {
+        font-size: 23px;
+    }
+    .group-2 p {
+        font-size: 11px;
+    }
+    .description {
+        padding-left: 9px;
+        margin-top: 10px;
+        padding-right: 37px;
+    }
+    .logo-text {
+        margin-left: 67px;
+    }
+    .group-5 p {
+        line-height: 27px;
+    }
+    .group-6 {
+        padding: 111px 0 164px 0;
+    }
+    .element6-2 {
+        padding-left: 32px;
+    }
+    .element6-2 h2 {
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+    .element6-2 .main-text-6 {
+        font-size: 26px;
+        line-height: 47px;
+    }
+    .element6-2 h3 {
+        font-size: 26px;
+        margin-bottom: 29px;
+    }
+    #inform {
+        line-height: 25px;
+    }
+
+}
+@media screen and (max-width: 390px){
+    .group-2 {
+        padding: 93px 0 85px 36px;
+    }
+    .group-5 h2 {
+        font-size: 27px;
+    }
+    .element6-2 {
+        width: 310px;
+    }
+    .element6-2 {
+        padding-left: 19px;
+    }
+    .cont-g-7 {
+        width: 86%;
+    }
+    .logo-text {
+        margin-left: 39px;
+    }
+    .element4-1 {
+        width: 314px;
+        max-height: 612px;
+    }
+    footer a {
+        font-size: 11px;
+    }
+    #about {
+        font-size: 29px;
+    }
+}
+@media screen and (max-width: 362px){
+    .element4-1 {
+        width: 284px;
+        max-height: 531px;
+    }
+    .element1-1 {
+        margin: 21px 17px 0 0;
+    }
+    .group-2 h2 {
+        font-size: 21px;
+    }
+    .logo-text {
+        margin-left: 12px;
+    }
+    .group-5 p {
+        width: 246px;
+    }
+    .group-5 h2 {
+        font-size: 21px;
+    }
+    .element6-2 {
+        width: 268px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
